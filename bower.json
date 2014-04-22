@@ -1,0 +1,26 @@
+{
+  "name": "pontoon",
+  "version": "0.0.0",
+  "authors": [
+    "Dan Martin <dan@dan-martin.net>"
+  ],
+  "description": "pontoon game built with mithril",
+  "main": "main.js",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "homepage": "www.dan-martin.net",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "latest",
+    "mithril": "latest"
+  }
+}
